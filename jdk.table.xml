@@ -1,0 +1,159 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.13 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/pip-9.0.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (D:\anaconda\Ananconda2\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="D:\anaconda\Ananconda2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/anaconda/Ananconda2/DLLs" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2/Lib" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2/Lib/lib-tk" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2/Lib/site-packages" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2/Lib/site-packages/Sphinx-1.5.6-py2.7.egg" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/anaconda/Ananconda2/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://D:/anaconda/Ananconda2/Lib/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-677480745" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (E:\Anaconada3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="E:\Anaconada3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://E:/Anaconada3/DLLs" />
+            <root type="simple" url="file://E:/Anaconada3/Lib" />
+            <root type="simple" url="file://E:/Anaconada3" />
+            <root type="simple" url="file://E:/Anaconada3/Lib/site-packages" />
+            <root type="simple" url="file://E:/Anaconada3/Lib/site-packages/Sphinx-1.4.6-py3.5.egg" />
+            <root type="simple" url="file://F:/OpenProject/django" />
+            <root type="simple" url="file://E:/Anaconada3/Lib/site-packages/win32" />
+            <root type="simple" url="file://E:/Anaconada3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://E:/Anaconada3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://E:/Anaconada3/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-850847246" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.4 (E:\Anaconada3\envs\tensorflow\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.5" />
+      <homePath value="E:\Anaconada3\envs\tensorflow\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://E:/Anaconada3/envs/tensorflow/DLLs" />
+            <root type="simple" url="file://E:/Anaconada3/envs/tensorflow/Lib" />
+            <root type="simple" url="file://E:/Anaconada3/envs/tensorflow" />
+            <root type="simple" url="file://E:/Anaconada3/envs/tensorflow/Lib/site-packages" />
+            <root type="simple" url="file://E:/Anaconada3/envs/tensorflow/Lib/site-packages/nettack-0.1-py3.5.egg" />
+            <root type="simple" url="file://E:/Anaconada3/envs/tensorflow/Lib/site-packages/numba-0.40.0-py3.5-win-amd64.egg" />
+            <root type="simple" url="file://F:/OpenProject/python_speech_features-0.6" />
+            <root type="simple" url="jar://E:/Anaconada3/envs/tensorflow/Lib/site-packages/SpeechValley-1.0.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1994664913" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.14 (E:\Anaconada3\envs\python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14" />
+      <homePath value="E:\Anaconada3\envs\python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://E:/Anaconada3/envs/python27/DLLs" />
+            <root type="simple" url="file://E:/Anaconada3/envs/python27/Lib" />
+            <root type="simple" url="file://E:/Anaconada3/envs/python27/Lib/lib-tk" />
+            <root type="simple" url="file://E:/Anaconada3/envs/python27" />
+            <root type="simple" url="file://E:/Anaconada3/envs/python27/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1603805513" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
